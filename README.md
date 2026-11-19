@@ -1,16 +1,45 @@
-## Hi there 👋
+# 👋 Hi, I'm Amr Ahmed Mohamed
 
-<!--
-**amr-ahmed-dev26/amr-ahmed-dev26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Full Stack Developer | PHP & Laravel | React.js | Flutter & Dart
 
-Here are some ideas to get you started:
+I’m a developer passionate about building modern web applications and mobile experiences. I focus on backend development with PHP & Laravel, alongside frontend development and cross-platform mobile applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 Tech Stack
+
+**Backend Development**
+- PHP
+- Laravel
+- Node.js
+- RESTful APIs
+
+**Frontend Development**
+- React.js
+- HTML5
+- CSS3
+- JavaScript
+
+**Mobile Development**
+- Flutter
+- Dart
+
+**Database & Tools**
+- MySQL
+- MongoDB
+- Git & GitHub
+
+---
+
+### 🎯 What I'm Focused On
+- Building scalable backend applications using Laravel.
+- Developing responsive web applications with React.js.
+- Creating cross-platform mobile apps using Flutter & Dart.
+- Improving software architecture and development skills.
+
+---
+
+### 🤝 Let's Connect
+
+I'm always interested in learning, collaborating, and building meaningful projects.
+
