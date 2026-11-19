@@ -1,4 +1,8 @@
 
+<p align="center">
+  <img src="banner.png" width="100%" />
+</p>
+
 # 👋 Hi, I'm Amr Ahmed Mohamed
 
 ### 🚀 Full Stack Developer | PHP & Laravel | React.js | Flutter & Dart
