@@ -1,79 +1,86 @@
 
 <p align="center">
-  <img src="banner.png" width="100%" alt="Amr Ahmed Mohamed - Full Stack Developer" />
+  <img src="https://raw.githubusercontent.com/amr-ahmed-dev26/amr-ahmed-dev26/main/654d0a09-d90d-4c4d-b517-5cb7ad6d542c.png" width="100%" alt="Amr Ahmed Mohamed - Full Stack Developer" />
 </p>
 
 <h1 align="center">👋 Hi, I'm Amr Ahmed Mohamed</h1>
 
 <h3 align="center">
-  🚀 Full Stack Developer | PHP & Laravel | React.js | Flutter & Dart
+  Full Stack Developer | PHP & Laravel | React.js | Flutter & Dart
 </h3>
 
 <p align="center">
-  Passionate about building modern web and mobile applications,
-  developing reliable backend systems, and creating meaningful digital solutions.
+  Building modern web and mobile applications with clean code and practical solutions.
 </p>
 
 ---
 
-## 👨‍💻 About Me
+### 👨‍💻 About Me
 
-- 💻 Focused on Full Stack Web Development.
-- ⚙️ Building backend applications using PHP and Laravel.
-- 🎨 Developing responsive web interfaces using React.js.
-- 📱 Creating cross-platform mobile applications using Flutter and Dart.
-- 🧠 Interested in clean code, problem-solving, and software architecture.
+- 💻 Full Stack Developer interested in building real-world applications.
+- 🚀 Backend Development using PHP and Laravel.
+- 🌐 Frontend Development using React.js, JavaScript, HTML and CSS.
+- 📱 Mobile App Development using Flutter and Dart.
+- 🗄️ Working with MySQL and MongoDB databases.
 - 📚 Always learning and improving my development skills.
 
 ---
 
-## 🛠️ Skills & Technologies
+### 🛠️ Tech Stack
 
-### 💻 Backend Development
+**Backend Development**
+
 <p>
-  <img src="https://skillicons.dev/icons?i=php,laravel,nodejs" height="50" />
+  <img src="https://skillicons.dev/icons?i=php,laravel,nodejs" />
 </p>
 
-### 🎨 Frontend Development
+**Frontend Development**
+
 <p>
-  <img src="https://skillicons.dev/icons?i=react,js,html,css" height="50" />
+  <img src="https://skillicons.dev/icons?i=react,js,html,css" />
 </p>
 
-### 📱 Mobile Development
+**Mobile Development**
+
 <p>
-  <img src="https://skillicons.dev/icons?i=flutter,dart" height="50" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart" />
 </p>
 
-### 🗄️ Databases
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb" height="50" />
-</p>
+**Databases & Tools**
 
-### 🔧 Tools & Platforms
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" height="50" />
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,git,github,vscode" />
 </p>
 
 ---
 
-## 🎯 What I'm Focused On
+### 🎯 What I'm Focused On
 
-- Building robust backend systems with PHP & Laravel.
-- Developing dynamic and responsive web applications with React.js.
-- Creating cross-platform mobile applications with Flutter & Dart.
-- Improving database design and application performance.
-- Writing clean, maintainable, and efficient code.
+- Developing full-stack web applications.
+- Building responsive and modern user interfaces.
+- Improving my Laravel and React.js skills.
+- Developing mobile applications using Flutter.
+- Learning new technologies and building practical projects.
 
 ---
 
-## 🤝 Connect With Me
+### 📊 GitHub Stats
 
-<p align="left">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=amr-ahmed-dev26&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amr-ahmed-dev26&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+</p>
+
+---
+
+### 🤝 Connect With Me
+
+<p align="center">
   <a href="https://www.linkedin.com/in/amr-ahmed-mohamed-5090a8222/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="https://github.com/amr-ahmed-dev26">
-    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" />
   </a>
 </p>
 
