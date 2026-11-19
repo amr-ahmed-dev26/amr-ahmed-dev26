@@ -1,15 +1,29 @@
 
 <p align="center">
-  <img src="banner.png" width="100%" />
+  <img src="banner.png" width="100%" alt="Amr Ahmed Mohamed - Full Stack Developer" />
 </p>
 
-# 👋 Hi, I'm Amr Ahmed Mohamed
+<h1 align="center">👋 Hi, I'm Amr Ahmed Mohamed</h1>
 
-### 🚀 Full Stack Developer | PHP & Laravel | React.js | Flutter & Dart
+<h3 align="center">
+  🚀 Full Stack Developer | PHP & Laravel | React.js | Flutter & Dart
+</h3>
 
-I’m a Full Stack Developer focused on engineering modern, scalable, and high-performance digital solutions. I specialize in building robust backend systems with PHP & Laravel, crafting dynamic web experiences with React.js, and developing cross-platform mobile applications using Flutter & Dart.
+<p align="center">
+  Passionate about building modern web and mobile applications,
+  developing reliable backend systems, and creating meaningful digital solutions.
+</p>
 
-I’m passionate about clean code, problem-solving, system architecture, and transforming complex ideas into reliable, user-focused applications.
+---
+
+## 👨‍💻 About Me
+
+- 💻 Focused on Full Stack Web Development.
+- ⚙️ Building backend applications using PHP and Laravel.
+- 🎨 Developing responsive web interfaces using React.js.
+- 📱 Creating cross-platform mobile applications using Flutter and Dart.
+- 🧠 Interested in clean code, problem-solving, and software architecture.
+- 📚 Always learning and improving my development skills.
 
 ---
 
@@ -30,7 +44,7 @@ I’m passionate about clean code, problem-solving, system architecture, and tra
   <img src="https://skillicons.dev/icons?i=flutter,dart" height="50" />
 </p>
 
-### 🗄️ Database
+### 🗄️ Databases
 <p>
   <img src="https://skillicons.dev/icons?i=mysql,mongodb" height="50" />
 </p>
@@ -44,19 +58,27 @@ I’m passionate about clean code, problem-solving, system architecture, and tra
 
 ## 🎯 What I'm Focused On
 
-- Building robust backend systems using PHP & Laravel.
+- Building robust backend systems with PHP & Laravel.
 - Developing dynamic and responsive web applications with React.js.
 - Creating cross-platform mobile applications with Flutter & Dart.
+- Improving database design and application performance.
 - Writing clean, maintainable, and efficient code.
-- Continuously improving software architecture and problem-solving skills.
 
 ---
 
-## 🤝 Let's Connect
+## 🤝 Connect With Me
 
-- 💼 LinkedIn: [Amr Ahmed Mohamed](https://www.linkedin.com/in/amr-ahmed-mohamed-5090a8222/)
-- 🐙 GitHub: [amr-ahmed-dev26](https://github.com/amr-ahmed-dev26)
+<p align="left">
+  <a href="https://www.linkedin.com/in/amr-ahmed-mohamed-5090a8222/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/amr-ahmed-dev26">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-⭐ Building meaningful solutions, one line of code at a time.
+<p align="center">
+  ⭐ Building meaningful solutions, one line of code at a time.
+</p>
